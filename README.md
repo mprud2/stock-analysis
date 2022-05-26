@@ -16,7 +16,7 @@
 
 #### In 2018, the market performed much worse than in 2017.  Nearly every stock recorded a negative return, with ENPH and RUN being the only two to have positive returns on the year.  It is also useful to know that those two tickers had two of the highest Total Daily Volume, which should give some confidence in their performance going forward.
 ### Comparison of Refactored Performance vs. Original Code
-#### The performance of the script was greatly sped up by not sorting through the entire dataset when identifying the ending value.  For comparison, the new script ran in .119 seconds compared to .742 seconds, for the 2017 data, and .121 vs. .702 seconds for the 2018 data.  
+#### The performance of the script was greatly sped up by not sorting through the entire dataset when identifying the ending value.  For comparison, the new script ran in .119 seconds compared to .742 seconds for the 2017 data, and .121 vs. .702 seconds for the 2018 data.  
 
 ### 2017 non-refactored run time
 <img width="256" alt="image" src="https://user-images.githubusercontent.com/104801614/170421427-6c93711a-5954-4512-b44c-332b00693aff.png">
